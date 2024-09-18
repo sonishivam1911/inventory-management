@@ -1,0 +1,12 @@
+click
+h11
+idna
+pydantic
+sniffio
+starlette
+typing_extensions
+mysql-connector-python
+numpy
+pandas
+SQLAlchemy
+python-dotenv
